@@ -1,4 +1,4 @@
-# Robotron 2000
+# Mochila de Viagem
 Projeto feito a partir de curso da formação JavaScript da Alura.
 
 ![Imagem Mochila](./img/ReadmeMochila.png)
